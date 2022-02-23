@@ -37,6 +37,5 @@ export default {
   /* border: 2px solid; */
   /* 투명도 */
   /* opacity: 0.5 */
-  
 }
 </style>

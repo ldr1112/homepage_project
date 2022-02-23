@@ -1,5 +1,5 @@
 <template>
-  <div style="margin: 100px 100px 100px 100px; border: 1px; background-color: white">
+  <div style="margin: 100px 100px 100px 100px; border: 10px; background-color: white;">
     <b-table striped hover :items="items" :fields="fields" @row-clicked="rowClick"></b-table>
     <b-button @click="writeContent">글쓰기</b-button>
   </div>

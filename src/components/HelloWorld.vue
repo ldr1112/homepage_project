@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1 style = "margin: 200px">{{ msg }}</h1>
+    <h1 style = "margin: 200px 200px 200px 200px">{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
       <li>
